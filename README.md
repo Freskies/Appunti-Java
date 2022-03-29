@@ -31,6 +31,7 @@ Andando a dichiarare il vettore in questo modo il nostro `vector` potrà contene
 |**Riga 1**|`10`|`Pino` |
 |**Riga 2**|`20`|`Rino`|
 |**Riga 3**|`30`|`Gino`|
+
 *Vettore di Vettori*:
 ||Elemento 1|Elemento 2|
 |:-:|:-:|:-:|
